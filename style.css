@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(rgb(246, 91, 91), aquamarine);
+    text-align: center;
+}
+
+span{
+    font-size: 20px;
+    color: yellow;
+        
+}
+
+canvas{
+    border-radius: 20px;
+    background: cornflowerblue;
+   
+}
